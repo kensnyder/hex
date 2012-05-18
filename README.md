@@ -1,0 +1,1 @@
+A Hexagonal Architecture Framework with CakePHP conventions
